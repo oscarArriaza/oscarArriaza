@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/qdf1QyvxipVh6/giphy.gif?cid=ecf05e47a887a0dtd9jlhqzpof4gx5f8tfc1egbktbgtjnin&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="200">
+<img src="https://media4.giphy.com/media/qdf1QyvxipVh6/giphy.gif?cid=ecf05e47a887a0dtd9jlhqzpof4gx5f8tfc1egbktbgtjnin&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="250">
 
 
 <h1 align="center">Hi 👋, I'm Oscar Arriaza</h1>
