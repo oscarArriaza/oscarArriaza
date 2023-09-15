@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Oarriaza22598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscarArriaza" height="30" width="40" /></a>
+<a href="https://twitter.com/Oarriaza22598" target="blank"><img align="center" src="https://img.freepik.com/vector-premium/nuevo-logotipo-twitter-x-2023-descarga-vector-logotipo-twitter-x_691560-10809.jpg" alt="oscarArriaza" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/oscar-armando-arriaza-guzmán-615319284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarArriaza" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arriaza22598/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscarArriaza" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC0mSsotm8kFnYTXUz1fb7iA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oscarArriaza" height="30" width="40" /></a>
