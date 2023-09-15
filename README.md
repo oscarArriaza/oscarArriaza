@@ -1,5 +1,9 @@
-<div style="margin:auto;">
-    <img src="https://media4.giphy.com/media/qdf1QyvxipVh6/giphy.gif?cid=ecf05e47a887a0dtd9jlhqzpof4gx5f8tfc1egbktbgtjnin&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="display: inline-block;">
+<div style="display: flex;
+    justify-content: center;
+    align-items: center;
+text-align:center;
+height: 100vh;">
+    <img src="https://media4.giphy.com/media/qdf1QyvxipVh6/giphy.gif?cid=ecf05e47a887a0dtd9jlhqzpof4gx5f8tfc1egbktbgtjnin&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 <h1 align="center">Hi 👋, I'm Oscar Arriaza</h1>
