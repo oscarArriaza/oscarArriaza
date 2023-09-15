@@ -1,4 +1,7 @@
-<img src="https://media4.giphy.com/media/qdf1QyvxipVh6/giphy.gif?cid=ecf05e47a887a0dtd9jlhqzpof4gx5f8tfc1egbktbgtjnin&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<div style="text-align:center;">
+    <img src="https://media4.giphy.com/media/qdf1QyvxipVh6/giphy.gif?cid=ecf05e47a887a0dtd9jlhqzpof4gx5f8tfc1egbktbgtjnin&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
+
 <h1 align="center">Hi 👋, I'm Oscar Arriaza</h1>
 <h3 align="center">A web applications developer</h3>
 
