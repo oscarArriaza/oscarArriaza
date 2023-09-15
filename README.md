@@ -19,8 +19,9 @@
 <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://www.informaticademadrid.com/wp-content/uploads/2016/08/cursos-de-informatica-para-mayores-madrid-logo-java-jpg.jpg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://www.arcskill.com/v2/static/images/courses/1600413021_-_html.jpg" alt="html" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://servidor.codeandcoke.com/_media/apuntes:css.jpg?cache=" alt="css" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt="css" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt="mySql" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://programmerblog.net/wp-content/uploads/2017/10/php-logo.jpg" alt="php" width="40" height="40"/> </a>
 
 <!--
 **oscarArriaza/oscarArriaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
