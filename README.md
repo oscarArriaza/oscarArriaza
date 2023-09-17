@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Oscar Arriaza</h1>
 <h3 align="center">A web applications developer</h3>
 
-- 🔭 I’m currently working on [personal proyects]()
+- 🔭 I’m currently working on [personal proyects.](https://oscararriaza.github.io/oscarArriaza/)
 
 - 👨‍💻 All of my projects are available at [oscararriaza.github.io/oscarArriaza/](https://oscararriaza.github.io/oscarArriaza/)
 
-- 📝 I regularly write articles on []()
+- 📝 I regularly write articles on [Ideas Digitales Avanzadas](https://ideasdigitalesavanzadas.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
