@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [oscararriaza.github.io/oscarArriaza/](https://oscararriaza.github.io/oscarArriaza/)
 
-- 📝 I regularly write articles on [Ideas Digitales Avanzadas](https://ideasdigitalesavanzadas.blogspot.com/)
+- 📝 I regularly write articles on [Ideas Digitales Avanzadas.](https://ideasdigitalesavanzadas.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
