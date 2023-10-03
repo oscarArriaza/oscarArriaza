@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Oscar Arriaza</h1>
 <h3 align="center">A web applications developer</h3>
 
-- 🔭 I’m currently working on [personal proyects.](https://oscararriaza.github.io/oscarArriaza/)
+- 🔭 I’m currently working on [personal proyects.](https://oscararriaza.github.io/)
 
-- 👨‍💻 All of my projects are available at [oscararriaza.github.io/oscarArriaza/](https://oscararriaza.github.io/oscarArriaza/)
+- 👨‍💻 All of my projects are available at [https://oscararriaza.github.io/](https://oscararriaza.github.io/)
 
 - 📝 I regularly write articles on [Ideas Digitales Avanzadas.](https://ideasdigitalesavanzadas.blogspot.com/)
 
